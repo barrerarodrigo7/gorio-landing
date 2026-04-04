@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/crono/:path*",
+      "destination": "https://gorio-crono.vercel.app/:path*"
+    }
+  ]
+}
